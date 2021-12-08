@@ -11,12 +11,12 @@
 ---
 
 ### 🧾 Recent Contributions:
-[![Rishi's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShishirShekhar&theme=react-dark)](https://github.com/riishiiiii/)
+[![Rishi's github activity graph](https://activity-graph.herokuapp.com/graph?username=riishiiiii&theme=react-dark)](https://github.com/riishiiiii/)
 
 ### 📊 Some Fun Stats:
 | ![My Stats](https://github-readme-stats.vercel.app/api?username=riishiiiii&theme=midnight-purple) | ![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=riishiiiii&theme=midnight-purple) |
 | --- | --- |
-| ![Shishir's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riishiiiii&theme=vision-friendly-dark) | 😍 Total Views on Profile:<br><br> ![Visitor Count](https://profile-counter.glitch.me/riishiiiii/count.svg) 
+| ![Rishi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riishiiiii&theme=vision-friendly-dark) | 😍 Total Views on Profile:<br><br> ![Visitor Count](https://profile-counter.glitch.me/riishiiiii/count.svg) 
 
 
 ### 🤝 Connect with me:
