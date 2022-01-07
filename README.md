@@ -5,7 +5,7 @@
 - 👀 I’m interested in Data Science and Full Stack Web Development
 - 🌱 I’m currently learning everything 😂
 - 💞 I’m looking to collaborate with other amazing developers
-- 🥅 2021 Goal: To create some amazing projects
+- 🥅 2022 Goal: To create some amazing projects
 - ⚡ Fun Fact: I enjoy cricket, memes and music alot
 
 ---
