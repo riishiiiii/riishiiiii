@@ -7,7 +7,7 @@
 - 💞 I’m looking to collaborate with other amazing developers
 - 🥅 2023 Goal: To create some amazing projects
 - ⚡ Fun Fact: I enjoy cricket, memes and music alot
-- https://riishiiiii.github.io/portfolio-react/
+- https://riishiiiii.github.io/Rishi-portfolio/
 
 ---
 
