@@ -1,21 +1,20 @@
-# Hi there, I'm [Rishi Pandey]! 👋
-
-![Banner Image](url-to-your-banner-image)
+# Hi there, I'm Rishi Pandey! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer, enthusiastic about [your interests e.g., open source, machine learning, web development, etc.]. Here's a bit about me and what you'll find here.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [project or job]
-- 🌱 I’m currently learning [technology or topic]
-- 👯 I’m looking to collaborate on [projects, open source, etc.]
-- 🤔 I’m looking for help with [specific area]
-- 💬 Ask me about [topics you are knowledgeable about]
-- 📫 How to reach me: [your email]
-- ⚡ Fun fact: [something interesting about you]
+- 👀 I’m interested in Data Science and Full Stack Web Development
+- 🌱 I’m currently learning everything 😂
+- 💞 I’m looking to collaborate with other amazing developers
+- 🥅 2023 Goal: To create some amazing projects
+- ⚡ Fun Fact: I enjoy cricket, memes and music alot
+- https://riishiiiii.github.io/Rishi-portfolio/
+
 
 ## 🛠️ Technologies & Tools
 
+![python](<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
