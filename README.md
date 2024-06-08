@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate developer, enthusiastic about ML/
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rishi-pandey-247962182/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://twitter.com/Riishiiiiii)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=x&logoColor=fff)](https://twitter.com/Riishiiiiii)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=fff)](https://discordapp.com/users/501221798419890204)
 [![GMail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:riship4611@gmail.com)
 
