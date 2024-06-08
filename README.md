@@ -35,23 +35,6 @@ Welcome to my GitHub profile! I'm a passionate developer, enthusiastic about ML/
 ![heroku](https://img.shields.io/badge/-Heroku-79589F?logo=heroku&logoColor=fff)
 
 
-## 📌 Pinned Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riishiiiii&repo=facedetection&theme=radical)](https://github.com/riishiiiii/facedetection)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riishiiiii&repo=fast-api-auth&theme=radical)](https://github.com/riishiiiii/fast-api-auth)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riishiiiii&repo=knowyourdata&theme=radical)](https://github.com/riishiiiii/knowyourdata)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riishiiiii&repo=remove-background&theme=radical)](https://github.com/riishiiiii/remove-background)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riishiiiii&repo=Rishi-portfolio&theme=radical)](https://github.com/riishiiiii/Rishi-portfolio)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riishiiiii&repo=Rishi-blog&theme=radical)](https://github.com/riishiiiii/Rishi-blog)
-
-
-
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rishi-pandey-247962182/)
