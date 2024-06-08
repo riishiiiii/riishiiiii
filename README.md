@@ -9,7 +9,8 @@ Welcome to my GitHub profile! I'm a passionate developer, enthusiastic about ML/
 - 💞 I’m looking to collaborate with other amazing developers
 - 🥅 2024 Goal: To create some amazing projects
 - ⚡ Fun Fact: I enjoy cricket, memes and music alot
-- https://riishiiiii.github.io/Rishi-portfolio/
+- 💻 [Checkout my Portfolio](https://riishiiiii.github.io/Rishi-portfolio/)
+
 
 
 ## 🛠️ Technologies & Tools
@@ -33,26 +34,13 @@ Welcome to my GitHub profile! I'm a passionate developer, enthusiastic about ML/
 ![Bash](https://img.shields.io/badge/-Bash-070707?logo=bash&logoColor=fff)
 ![heroku](https://img.shields.io/badge/-Heroku-79589F?logo=heroku&logoColor=fff)
 
-## 📈 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riishiiiii&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-pandey-247962182/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Riishiiiiii)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/501221798419890204)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riship4611@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riishiiiii)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rishi-pandey-247962182/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://twitter.com/Riishiiiiii)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?logo=discord&logoColor=fff)](https://discordapp.com/users/501221798419890204)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:riship4611@gmail.com)
 
-
-## 🏆 GitHub Trophies
-
-![Your Name's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=riishiiiii&theme=radical&no-frame=true&margin-w=5)
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me. Happy coding! 😊
