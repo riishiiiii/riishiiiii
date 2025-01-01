@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer, enthusiastic about ML/
 - 💞 I’m looking to collaborate with other amazing developers
 - 🥅 2025 Goal: To create some amazing projects
 - ⚡ Fun Fact: I enjoy cricket, memes and music alot
-- 💻 [Checkout my Portfolio](https://riishiiiii.github.io/portfolio-react/)
+- 💻 [Checkout my Portfolio](https://rishi-pandey.lol/)
 
 
 
